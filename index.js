@@ -16,7 +16,7 @@ while (true) {
 O que deseja gerenciar?
 1 - Turnos
 2 - Cursos
-3 - Materias
+3 - Matérias
 4 - Alunos
 5 - Professores
 6 - Salas
@@ -107,7 +107,7 @@ GERENCIAMENTO DE CURSOS
       continuar = true;
       while (continuar) {
         console.log(`
- GERENCIAMENTO DE MATÉRIA
+ GERENCIAMENTO DE MATÉRIAS
     
 1 - Criar
 2 - Listar
